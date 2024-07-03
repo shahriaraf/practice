@@ -1,0 +1,9 @@
+p{
+    margin: 20px;
+}
+*{
+    margin: 0;
+}
+#a,#b{
+    padding: 10px;
+}
